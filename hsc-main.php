@@ -1,8 +1,8 @@
 <?php 
 
 /**
-	 Plugin Name: CST DB - Gravity Form submission
-	 Plugin URI: https://github.com/harmancheema93/hsc-agentcubed-gravity-from-integration
+	 Plugin Name: Gravity Form submission - Third Party Platform
+	 Plugin URI: https://github.com/harmancheema93/gravity-form-third-party-submission
 	Description: Plugin to submit lead to CST DB from gravity form.
 	Author: Harmandeep Singh
 	Version: 1.0
