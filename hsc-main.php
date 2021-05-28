@@ -3,7 +3,7 @@
 /**
 	 Plugin Name: Gravity Form submission - Third Party Platform
 	 Plugin URI: https://github.com/harmancheema93/gravity-form-third-party-submission
-	Description: Plugin to submit lead to CST DB from gravity form.
+	Description: This plugin is used to submit gravity form data to third party CRM
 	Author: Harmandeep Singh
 	Version: 1.0
 	Author URI: https://github.com/harmancheema93
